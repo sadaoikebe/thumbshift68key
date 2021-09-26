@@ -10,5 +10,5 @@ Version 2 - Round Case for t=4mm plate (need x1.0026 scaling)
 
 Version 3 - Square Case for t=1.5mm plate (need x1.0026 scaling)  
 [Top](https://www.tinkercad.com/things/38msSLIgyYU)  
-[Bottom](https://www.tinkercad.com/things/1HxpsGnahZa)  
+[Bottom](https://www.tinkercad.com/things/dlc2zOa5UjM)  
 
